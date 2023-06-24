@@ -1,0 +1,76 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "Title": "First Task",
+            "Description": "The First task created",
+            "CreatedOn": "2021-01-23",
+            "CompletionStatus": false,
+            "Priority": [
+                {
+                    "Level": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "Title": "Second Task",
+            "Description": "The Second task created",
+            "CreatedOn": "2022-06-25",
+            "CompletionStatus": false,
+            "Priority": [
+                {
+                    "Level": 2
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "Title": "Third Task updated",
+            "Description": "The Third task updated",
+            "CreatedOn": "2023-06-23",
+            "CompletionStatus": true,
+            "Priority": [
+                {
+                    "Level": 2
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "Title": "Fourth Task updated",
+            "Description": "The Fourth task updated",
+            "CreatedOn": "2021-01-23",
+            "CompletionStatus": true,
+            "Priority": [
+                {
+                    "Level": 1
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "Title": "Fivth updated Task",
+            "Description": "The task updated",
+            "CreatedOn": "2022-01-23",
+            "CompletionStatus": true,
+            "Priority": [
+                {
+                    "Level": 1
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "Title": "First Task",
+            "Description": "The First task created",
+            "CreatedOn": "2022-01-23",
+            "CompletionStatus": false,
+            "Priority": [
+                {
+                    "Level": 2
+                }
+            ]
+        }
+    ]
+}
